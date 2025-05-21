@@ -1,4 +1,3 @@
-#include "arduino_secrets.h"
 
 #include <Arduino.h>
 #include <Adafruit_PWMServoDriver.h>
