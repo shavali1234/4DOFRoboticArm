@@ -79,7 +79,7 @@ Edit
 
 ## 🎥 Demo Video
 
-[![Watch the demo](https://youtu.be/rfESmiidwMw?si=YtfuWVCvDmEFDHLR)
+[![Watch the demo](https://img.youtube.com/vi/rfESmiidwMw/0.jpg)](https://www.youtube.com/watch?v=rfESmiidwMw)
 
 
 ---
