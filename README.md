@@ -81,7 +81,6 @@ Edit
 
 [![Watch the demo](https://youtu.be/rfESmiidwMw?si=YtfuWVCvDmEFDHLR)
 
-> Replace `VIDEO_ID` with your YouTube video ID or leave this section empty until video is available.
 
 ---
 
