@@ -53,17 +53,14 @@ This project demonstrates how to control a **4 DOF robotic arm** (frame purchase
 
 ## 📁 Project Structure
 
-4DOF_Robot_Arm/
-├── code/
-│ └── robot_arm_control.ino
-├── images/
-│ ├── wiring_diagram.png
-│ ├── assembled_arm.jpg
-├── README.md
+-4DOF_Robot_Arm/
+-├── code/
+-│ └── robot_arm_control.ino
+-├── images/
+-│ ├── wiring_diagram.png
+-│ ├── assembled_arm.jpg
+-├── README.md
 
-yaml
-Copy
-Edit
 
 ---
 
